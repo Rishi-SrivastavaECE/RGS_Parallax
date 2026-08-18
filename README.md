@@ -10,7 +10,7 @@ Hackathon Parallax
 
 A distributed, sensor-fusion-based prototype for runway approach guidance and aircraft response analysis.
 
-The system combines **three ESP32 ground nodes, RSSI-based lateral alignment, ultrasonic sensing, a servo-mounted radar sensor, an MPU6050-equipped aircraft rig, and a Raspberry Pi analysis station** to demonstrate an intelligent approach-monitoring system.
+The system combines **three ESP32 ground nodes, RSSI-based lateral alignment, ultrasonic sensing, an MPU6050-equipped aircraft rig, and a Raspberry Pi analysis station** to demonstrate an intelligent approach-monitoring system.
 
 ## Overview
 
